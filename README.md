@@ -1,5 +1,7 @@
 # Local AI Agent RAG with LangChain and Ollama
 
+![Project Screenshot](Screenshot%202025-05-10%20061128.png)
+
 This project implements a Retrieval-Augmented Generation (RAG) AI agent focused on answering questions about a pizza restaurant. The agent functions completely locally without the need for external API keys (no more hidden keys!), ensuring data privacy and offline capability.
 
 ## Features
